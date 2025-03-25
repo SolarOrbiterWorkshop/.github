@@ -3,7 +3,7 @@
 This is a **community-driven space** to share tools, examples, and documentation for working with data from the ESA/NASA **Solar Orbiter** mission.
 
 🚀 **Explore:**
-- 📚 [Documentation & Example Gallery](https://solarorbiterworkshop.github.io/solar-orbiter-docs/)
+- 📚 [Documentation & Example Gallery](https://solar-orbiter-docs.readthedocs.io/en/latest/index.html)
 
 There are some past tutorial repos on this page too, but the main idea is to add these to the documentation linked here. 
 
