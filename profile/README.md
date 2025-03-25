@@ -4,7 +4,7 @@ This is a **community-driven space** to share tools, examples, and documentation
 
 🚀 **Explore:**
 - 📚 [Documentation & Example Gallery](https://solarorbiterworkshop.github.io/solar-orbiter-docs/)
-- 💻 [GitHub Repositories](https://github.com/SolarOrbiterWorkshop)
-- 🌞 [Solar Orbiter Mission Overview](https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter)
+
+There are some past tutorial repos on this page too, but the main idea is to add these to the documentation linked here. 
 
 We welcome contributions from the community!
