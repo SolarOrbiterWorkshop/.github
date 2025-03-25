@@ -1,6 +1,6 @@
-# Solar Orbiter Workshop
+## Solar Orbiter Resources and Tools
 
-A community-driven space to share tools, examples, and documentation for working with data from the ESA/NASA Solar Orbiter mission.
+This is a community-driven space to share tools, examples, and documentation for working with data from the ESA/NASA Solar Orbiter mission.
 
 🚀 Explore:
 - [Documentation & Example Gallery](https://solarorbiterworkshop.github.io/solar-orbiter-docs/)
